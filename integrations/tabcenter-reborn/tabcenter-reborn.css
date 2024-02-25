@@ -45,7 +45,9 @@
 #topmenu {
   background-color: var(--uc-base-colour);
   padding-left: 10px;
-  transition: padding-left 200ms ease, padding-right 200ms ease;
+  transition:
+    padding-left 200ms ease,
+    padding-right 200ms ease;
   border-bottom: 1px solid var(--uc-highlight-colour);
 }
 
