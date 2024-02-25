@@ -53,7 +53,7 @@
 #topmenu #filterbox-input,
 #topmenu #text,
 #topmenu #settings {
-  display: none !important;
+  display: none;
 }
 
 body:hover #topmenu {
@@ -64,7 +64,7 @@ body:hover #topmenu #filterbox-icon,
 body:hover #topmenu #filterbox-input,
 body:hover #topmenu #text,
 body:hover #topmenu #settings {
-  display: flex !important;
+  display: flex;
 }
 
 #tablist-wrapper,
